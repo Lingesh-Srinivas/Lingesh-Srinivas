@@ -1,32 +1,3 @@
-## About Me
-
-Hello! I'm a business development professional with a strong foundation in international marketing, currently expanding my skill set into the dynamic fields of data analytics and programming.
-
-My background in international marketing has equipped me with:
-
-* **Global Perspective:** Experience in navigating diverse markets, understanding cultural nuances, and developing effective international strategies.
-* **Communication & Relationship Building:** Proven ability to communicate effectively with stakeholders from various backgrounds and build strong, lasting relationships.  For example, I successfully managed key accounts in the APAC region, resulting in a 20% increase in year-over-year revenue.
-* **Strategic Thinking:** A knack for identifying opportunities, analyzing market trends, and developing strategic plans to achieve business objectives.
-
-Driven by a passion for leveraging data to drive informed decisions, I am actively pursuing knowledge and skills in:
-
-* **Data Analytics:** Exploring data analysis techniques, statistical modeling, and data visualization to extract meaningful insights from data.
-* **Programming:** Learning programming languages (e.g., Python, R) to automate tasks, manipulate data, and build analytical solutions.
-
-I am excited to combine my business acumen with my growing technical skills to contribute to innovative projects and drive impactful results.
-
-**Currently Learning:**
-
-* Python for Data Analysis (NumPy, Pandas, Scikit-learn)
-* SQL for Database Management
-* Tableau for Data Visualization
-
-**Let's Connect!**
-
-I'm always open to connecting with fellow professionals, learning about new opportunities, and collaborating on interesting projects. Feel free to reach out!
-
-[[Link to your LinkedIn Profile]](https://www.linkedin.com/in/lingesh-srinivaas/)
-
 # 💫 About Me:
 ## About Me<br><br>Hello! I'm a business development professional with a strong foundation in international marketing, currently expanding my skill set into the dynamic fields of data analytics and programming.<br><br>My background in international marketing has equipped me with:<br><br>* **Global Perspective:** Experience in navigating diverse markets, understanding cultural nuances, and developing effective international strategies.<br>* **Communication & Relationship Building:** Proven ability to communicate effectively with stakeholders from various backgrounds and build strong, lasting relationships.  For example, I successfully managed key accounts in the APAC region, resulting in a 20% increase in year-over-year revenue.<br>* **Strategic Thinking:** A knack for identifying opportunities, analyzing market trends, and developing strategic plans to achieve business objectives.<br><br>Driven by a passion for leveraging data to drive informed decisions, I am actively pursuing knowledge and skills in:<br><br>* **Data Analytics:** Exploring data analysis techniques, statistical modeling, and data visualization to extract meaningful insights from data.<br>* **Programming:** Learning programming languages (e.g., Python, R) to automate tasks, manipulate data, and build analytical solutions.<br><br>I am excited to combine my business acumen with my growing technical skills to contribute to innovative projects and drive impactful results.<br><br>**Currently Learning:**<br><br>* Python for Data Analysis (NumPy, Pandas, Scikit-learn)<br>* SQL for Database Management<br>* Tableau for Data Visualization<br><br>**Let's Connect!**<br><br>I'm always open to connecting with fellow professionals, learning about new opportunities, and collaborating on interesting projects. Feel free to reach out!<br><br>[[Link to your LinkedIn Profile]](https://www.linkedin.com/in/lingesh-srinivaas/)
 
